@@ -1,0 +1,5 @@
+// Arithmetic, variables, assignment and printing
+let answer = 2 + 3 * (4 - 1);
+answer = answer - 2;
+print answer;
+print -answer;

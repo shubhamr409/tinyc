@@ -1,0 +1,24 @@
+# CMake build directories
+/build/
+/build-ninja/
+/CMakeFiles/
+/CMakeCache.txt/
+/cmake_install.cmake/
+/CTestTestfile.cmake/
+/Testing/
+
+# Compiled binaries and objects
+*.exe
+*.o
+*.obj
+*.dll
+*.a
+*.lib
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db

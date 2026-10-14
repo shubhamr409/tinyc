@@ -1,0 +1,12 @@
+// Test 1: Arithmetic precedence
+print 2 + 3 * 4;
+
+// Test 2: Nested constant expressions
+print (10 - 2) * (3 + 4);
+
+// Test 3: Constant division
+print 100 / 5 + 6;
+
+// Test 4: Runtime-dependent expression
+let x = 8;
+print x * 2 + 1;
